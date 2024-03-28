@@ -1,0 +1,16 @@
+id,name,price,quantity,category
+1,Product A,100,50,Electronics
+2,Product B,150,30,Apparel
+3,Product C,200,20,Home & Kitchen
+4,Product D,120,45,Electronics
+5,Product E,180,25,Apparel
+6,Product F,220,15,Home & Kitchen
+7,Product G,90,60,Electronics
+8,Product H,130,40,Apparel
+9,Product I,190,35,Home & Kitchen
+10,Product J,110,55,Electronics
+11,Product K,160,28,Apparel
+12,Product L,210,18,Home & Kitchen
+13,Product M,95,58,Electronics
+14,Product N,140,38,Apparel
+15,Product O,170,22,Home & Kitchen
